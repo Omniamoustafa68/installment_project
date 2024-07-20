@@ -1,0 +1,7 @@
+contract_id,contract_startdate,contract_enddate,contract_total_fees,contract_deposit_fees,client_name,contract_payment_type,max_grace_period ( Max working days )
+101,1-1-2021,1-1-2023,500000,,Motaheda Co,ANNUAL,7
+102,3-1-2021,3-1-2024,600000,10000,El Ahly Bank,QUARTER,5
+103,5-1-2021,5-1-2023,400000,50000,Misr Pertol,QUARTER,14
+104,3-1-2021,3-1-2024,700000,,El Nagah Club,MONTHLY,3
+105,4-1-2021,4-1-2026,900000,300000,OSR Co.,ANNUAL,14
+106,1-1-2021,1-1-2026,1000000,200000,Masters Edu,HALF_ANNUAL,10
